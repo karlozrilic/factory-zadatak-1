@@ -268,5 +268,56 @@
       <p>banner</p>
       <p>940x120</p>
     </div>
+    <div class="bottom-slick">
+      <div class="slider-for">
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="slide-img">
+          <img src="../assets/svg/bottomSlick/1.svg" />
+        </div>
+        <div class="search-icon">
+          <img src="../assets/svg/search.svg" />
+        </div>
+      </div>
+      <div class="slider-nav">
+        <div>
+          <img src="../assets/svg/bottomSlick/2.svg" />
+        </div>
+        <div>
+          <img src="../assets/svg/bottomSlick/3.svg" />
+        </div>
+        <div>
+          <img src="../assets/svg/bottomSlick/4.svg" />
+        </div>
+        <div>
+          <img src="../assets/svg/bottomSlick/5.svg" />
+        </div>
+        <div>
+          <img src="../assets/svg/bottomSlick/6.svg" />
+        </div>
+        <div>
+          <img src="../assets/svg/bottomSlick/7.svg" />
+        </div>
+        <div>
+          <img src="../assets/svg/bottomSlick/8.svg" />
+        </div>
+      </div>
+    </div>
   </div>
 </template>

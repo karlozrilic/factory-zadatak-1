@@ -10,11 +10,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Bitter&family=Varela+Round&family=Bitter:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <title>Factory: Zadatak - 1</title>
   </head>
   <body>
     <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong>We're sorry but Factory: Zadatak - 1 doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
@@ -47,6 +47,23 @@
           accessibility: true,
           prevArrow: $("#local-news-prev"),
           nextArrow: $("#local-news-next")
+        });
+        $('.slider-for').slick({
+          slidesToScroll: 1,
+          slidesToShow: 1,
+          autoplay: true,
+          prevArrow: "<img class='a-left control-c prev slick-prev' src='./prevArrow.svg'>",
+          nextArrow: "<img class='a-right control-c next slick-next' src='./nextArrow.svg'>",
+          slide: '.slide-img'
+        });
+        $('.slider-nav').slick({
+          infinite: false,
+          slidesToShow: 7,
+          slidesToScroll: 1,
+          asNavFor: '.slider-for',
+          arrows: false,
+          autoplay: false,
+          focusOnSelect: true
         });
       });
     </script>
