@@ -104,6 +104,7 @@ header
                     margin-right: 15px
                     a 
                         font-family: "Varela Round", sans-serif
+                        font-size: 14px
                         height: 27px
                         &:hover 
                             mix-blend-mode: normal
@@ -150,8 +151,9 @@ header
                 justify-content: center
                 align-items: center
                 height: 100%
-                a 
-                    font-family: "Varela Round", sans-serif
+                a
+                    font-weight: bold
+                    font-size: 18px
                     display: flex
                     flex-direction: row
                     justify-content: center
@@ -240,13 +242,15 @@ header
                     display: inline
         h1
             font-family: Bitter
-            font-weight: 700
+            font-weight: bold
             font-size: 34px
             line-height: 40,8px
             color: $sliderArticleColor
             width: 70%
             letter-spacing: 2px
         .article-link
+            font-family: "Varela Round"
+            font-size: 14px
             display: inline-block
             width: 15%
             text-align: center
@@ -283,10 +287,178 @@ header
                 @include mainArticles($travelColor)
                 width: 48%
     aside
-        background: $purple
-        height: 100px
+        height: fit-content
         width: 302px
         margin: 15px 0
+        .aside-articles
+            position: relative
+            background: $purple
+            &:before
+                content: ""
+                display: block
+                position: absolute
+                top: 0
+                left: 0
+                height: 100%
+                width: 100%
+                mix-blend-mode: normal
+                opacity: 0.2
+                background-color: #000
+            .aside-articles-links
+                ul
+                    position: relative
+                    display: flex
+                    flex-direction: row
+                    justify-content: space-between
+                    padding: 15px
+                    li
+                        display: inline-block
+                        a
+                            font-family: Varela Round
+                            color: #fff
+                            border-bottom: 1px solid #FFFFFF4D
+                            &.active
+                                color: $techColor
+                                border-bottom: 1px solid $techColorLight
+            .article
+                padding: 10px
+                position: relative
+                display: flex
+                flex-direction: row
+                background: $purple
+                margin: 2px 0
+                &:hover
+                    &:before
+                        content: ""
+                        display: block
+                        position: absolute
+                        top: 0
+                        left: 0
+                        height: 100%
+                        width: 100%
+                        background: #000000
+                        mix-blend-mode: normal
+                        opacity: 0.1
+                .article-content
+                    position: relative
+                    display: flex
+                    flex-direction: column
+                    padding: 0 15px
+                    .article-info
+                        position: relative
+                        display: flex
+                        flex-direction: column
+                        .article-date
+                            font-family: Varela Round
+                            font-size: 10px
+                            color: #ACB3BA
+                        .article-title
+                            font-weight: bold
+                            font-size: $standardFontSize
+                    .article-comments
+                        font-family: Varela Round
+                        font-size: 10px
+                        text-align: right
+                        color: #ACB3BA
+                .article-image
+                    border: 3px solid #ffffff
+                    box-shadow: 0px 1px 1px rgba(0, 0, 1, 0.3)
+        .aside-social
+            margin: 15px 0
+            .aside-social-title
+                color: $mainArticlesTitleColor
+                font-weight: bold
+                font-size: 24px
+                line-height: 29px
+                padding: 15px 0
+            .social-networks
+                display: flex
+                flex-direction: column
+                .social-network
+                    display: flex
+                    flex-direction: row
+                    justify-content: space-between
+                    margin: 3px 0
+                    .social-icon
+                        width: 100%
+                        height: 100%
+                        max-width: 40px
+                        max-height: 40px
+                        img
+                            width: 100%
+                            height: 100%
+                    .social-text
+                        width: 40%
+                        display: flex
+                        align-items: center
+                        background-color: #DDDDDD
+                        padding: 0 10px
+                        color: $mainArticlesTitleColor
+                        font-weight: bold
+                        font-size: 18px
+                    .social-number
+                        width: 50%
+                        display: flex
+                        align-items: center
+                        background-color: $purple
+                        padding: 0 10px
+                        font-family: Varela Round
+                        font-size: $standardFontSize
+        .aside-tv
+            position: relative
+            background-color: #FFFFFF
+            height: fit-content
+            margin-bottom: 18px
+            .aside-tv-title
+                font-weight: bold
+                color: $mainArticlesTitleColor
+                font-size: 24px
+                padding: 15px 25px
+            .aside-tv-video
+                position: relative
+                height: 100%
+                .aside-tv-video-image
+                    position: relative
+                    top: 0
+                    left: 0
+                .aside-tv-video-button
+                    position: absolute
+                    top: 50%
+                    left: 50%
+                    transform: translate(-50%, -50%)
+            .aside-tv-text
+                position: relative
+                padding: 15px
+                .aside-tv-date
+                    font-family: Varela Round
+                    font-size: 12px
+                    color: #666666
+                .aside-tv-article-title
+                    color: $mainArticlesTitleColor
+                    font-weight: bold
+                    font-size: $standardFontSize
+        .aside-banners
+            display: flex
+            flex-direction: row
+            align-items: center
+            justify-content: center
+            background-color: #DDDDDD
+            padding: 15px
+            margin-bottom: 18px
+            .aside-banner
+                width: 128px
+                height: 128px
+                background-color: #FFFFFF
+                margin: 5px
+                display: flex
+                flex-direction: column
+                align-items: center
+                justify-content: center
+                p
+                    color: #999999
+        .aside-facebook
+            padding: 15px
+            background-color: #FFFFFF
 
 .main-article-top
     position: relative
@@ -345,8 +517,8 @@ header
             color: #666666
     .article-title
         position: relative
-        font-weight: 700
-        font-size: 14px
+        font-weight: bold
+        font-size: $standardFontSize
         color: #363f48
 
 .small-article
@@ -379,8 +551,8 @@ header
                 color: #666666
         .article-title
             position: relative
-            font-weight: 700
-            font-size: 14px
+            font-weight: bold
+            font-size: $standardFontSize
             line-height: 16px
             color: #363f48
 
