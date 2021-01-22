@@ -271,7 +271,7 @@
           </div>
           <a class="article" href="#">
             <div class="article-content">
-              <div class="article-comments"><img src="../assets/svg/asideComment.svg" /> 5</div>
+              <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
                 <div class="article-date">August 26, 2014</div>
                 <p class="article-title">Palestinian call off peace talks after clash</p>
@@ -283,7 +283,7 @@
           </a>
           <a class="article" href="#">
             <div class="article-content">
-              <div class="article-comments"><img src="../assets/svg/asideComment.svg" /> 5</div>
+              <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
                 <div class="article-date">August 26, 2014</div>
                 <p class="article-title">Palestinian call off peace talks after clash</p>
@@ -295,7 +295,7 @@
           </a>
           <a class="article" href="#">
             <div class="article-content">
-              <div class="article-comments"><img src="../assets/svg/asideComment.svg" /> 5</div>
+              <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
                 <div class="article-date">August 26, 2014</div>
                 <p class="article-title">Palestinian call off peace talks after clash</p>
@@ -307,7 +307,7 @@
           </a>
           <a class="article" href="#">
             <div class="article-content">
-              <div class="article-comments"><img src="../assets/svg/asideComment.svg" /> 5</div>
+              <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
                 <div class="article-date">August 26, 2014</div>
                 <p class="article-title">Palestinian call off peace talks after clash</p>
@@ -319,7 +319,7 @@
           </a>
           <a class="article" href="#">
             <div class="article-content">
-              <div class="article-comments"><img src="../assets/svg/asideComment.svg" /> 5</div>
+              <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
                 <div class="article-date">August 26, 2014</div>
                 <p class="article-title">Palestinian call off peace talks after clash</p>
