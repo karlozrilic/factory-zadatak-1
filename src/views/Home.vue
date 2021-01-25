@@ -158,8 +158,8 @@
           <div class="main-article-top">
             <h1>News Carousel</h1>
             <div class="arrows">
-              <img class='a-left control-c prev slick-prev' id="news-carousel-prev" src='../assets/svg/prevArrowNewsCarousel.svg'>
-              <img class='a-right control-c next slick-next' id="news-carousel-next" src='../assets/svg/nextArrowNewsCarousel.svg'>
+              <img class='a-left control-c prev slick-prev' id="news-carousel-prev" src='../assets/svg/arrows/prevArrowNewsCarousel.svg'>
+              <img class='a-right control-c next slick-next' id="news-carousel-next" src='../assets/svg/arrows/nextArrowNewsCarousel.svg'>
             </div>
           </div>
           <div class="articles news-carousel-slider">
@@ -198,8 +198,8 @@
             <div class="main-article-top">
               <h1>Editorials</h1>
               <div class="arrows">
-                <img class='a-left control-c prev slick-prev' id="editorials-prev" src='../assets/svg/prevArrowSingleCarousel.svg'>
-                <img class='a-right control-c next slick-next' id="editorials-next" src='../assets/svg/nextArrowSingleCarousel.svg'>
+                <img class='a-left control-c prev slick-prev' id="editorials-prev" src='../assets/svg/arrows/prevArrowSingleCarousel.svg'>
+                <img class='a-right control-c next slick-next' id="editorials-next" src='../assets/svg/arrows/nextArrowSingleCarousel.svg'>
               </div>
             </div>
             <div class="articles editorials-slider">
@@ -230,8 +230,8 @@
             <div class="main-article-top">
               <h1>Local News</h1>
               <div class="arrows">
-                <img class='a-left control-c prev slick-prev' id="local-news-prev" src='../assets/svg/prevArrowSingleCarousel.svg'>
-                <img class='a-right control-c next slick-next' id="local-news-next" src='../assets/svg/nextArrowSingleCarousel.svg'>
+                <img class='a-left control-c prev slick-prev' id="local-news-prev" src='../assets/svg/arrows/prevArrowSingleCarousel.svg'>
+                <img class='a-right control-c next slick-next' id="local-news-next" src='../assets/svg/arrows/nextArrowSingleCarousel.svg'>
               </div>
             </div>
             <div class="articles local-news-slider">

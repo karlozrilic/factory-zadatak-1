@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Category from '../views/Category.vue'
+import Single from '../views/Single.vue'
 
 Vue.use(VueRouter)
 
@@ -19,7 +20,7 @@ const routes = [
   {
     path: '/single',
     name: 'Single',
-    component: Category
+    component: Single
   }
 ]
 
