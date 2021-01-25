@@ -13,7 +13,7 @@
             <div class="article-comments"><img src="../assets/svg/comment.svg" /> 22 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
-          <a class="article-link" href="#">Read article</a>
+          <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
       <div>
@@ -24,7 +24,7 @@
             <div class="article-comments"><img src="../assets/svg/comment.svg" /> 14 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
-          <a class="article-link" href="#">Read article</a>
+          <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
       <div>
@@ -35,7 +35,7 @@
             <div class="article-comments"><img src="../assets/svg/comment.svg" /> 5 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
-          <a class="article-link" href="#">Read article</a>
+          <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
     </div>
@@ -44,10 +44,10 @@
         <div class="news">
           <div class="main-article-top">
             <h1>News</h1>
-            <a href="#">See all</a>
+            <a href="/single">See all</a>
           </div>
           <div class="articles">
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
@@ -55,7 +55,7 @@
               </div>
               <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
@@ -63,7 +63,7 @@
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
@@ -76,24 +76,24 @@
         <div class="sport">
           <div class="main-article-top">
             <h1>Sport</h1>
-            <a href="#">See all</a>
+            <a href="/single">See all</a>
           </div>
           <div class="articles">
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
@@ -109,10 +109,10 @@
         <div class="business">
           <div class="main-article-top">
             <h1>Business</h1>
-            <a href="#">See all</a>
+            <a href="/single">See all</a>
           </div>
           <div class="articles">
-            <a class="small-article" href="#">
+            <a class="small-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-side">
                 <div class="article-date-and-views">
@@ -121,7 +121,7 @@
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </div>
             </a>
-            <a class="small-article" href="#">
+            <a class="small-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-side">
                 <div class="article-date-and-views">
@@ -130,7 +130,7 @@
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </div>
             </a>
-            <a class="small-article" href="#">
+            <a class="small-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-side">
                 <div class="article-date-and-views">
@@ -139,7 +139,7 @@
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </div>
             </a>
-            <a class="small-article" href="#">
+            <a class="small-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-side">
                 <div class="article-date-and-views">
@@ -163,28 +163,28 @@
             </div>
           </div>
           <div class="articles news-carousel-slider">
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
-            <a class="medium-article" href="#">
+            <a class="medium-article" href="/single">
               <img src="../assets/svg/article-image.svg" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
@@ -203,21 +203,21 @@
               </div>
             </div>
             <div class="articles editorials-slider">
-              <a class="medium-article" href="#">
+              <a class="medium-article" href="/single">
                 <img src="../assets/svg/article-image.svg" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
-              <a class="medium-article" href="#">
+              <a class="medium-article" href="/single">
                 <img src="../assets/svg/article-image.svg" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
-              <a class="medium-article" href="#">
+              <a class="medium-article" href="/single">
                 <img src="../assets/svg/article-image.svg" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
@@ -235,21 +235,21 @@
               </div>
             </div>
             <div class="articles local-news-slider">
-              <a class="medium-article" href="#">
+              <a class="medium-article" href="/single">
                 <img src="../assets/svg/article-image.svg" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
-              <a class="medium-article" href="#">
+              <a class="medium-article" href="/single">
                 <img src="../assets/svg/article-image.svg" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
-              <a class="medium-article" href="#">
+              <a class="medium-article" href="/single">
                 <img src="../assets/svg/article-image.svg" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
@@ -269,7 +269,7 @@
               <li><a href="#">Comments</a></li>
             </ul>
           </div>
-          <a class="article" href="#">
+          <a class="article" href="/single">
             <div class="article-content">
               <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
@@ -281,7 +281,7 @@
               <img src="../assets/svg/asideArticle.svg" />
             </div>
           </a>
-          <a class="article" href="#">
+          <a class="article" href="/single">
             <div class="article-content">
               <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
@@ -293,7 +293,7 @@
               <img src="../assets/svg/asideArticle.svg" />
             </div>
           </a>
-          <a class="article" href="#">
+          <a class="article" href="/single">
             <div class="article-content">
               <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
@@ -305,7 +305,7 @@
               <img src="../assets/svg/asideArticle.svg" />
             </div>
           </a>
-          <a class="article" href="#">
+          <a class="article" href="/single">
             <div class="article-content">
               <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
@@ -317,7 +317,7 @@
               <img src="../assets/svg/asideArticle.svg" />
             </div>
           </a>
-          <a class="article" href="#">
+          <a class="article" href="/single">
             <div class="article-content">
               <div class="article-comments"><img src="../assets/svg/greyComment.svg" /> 5</div>
               <div class="article-info">
@@ -333,17 +333,17 @@
         <div class="aside-social">
           <div class="aside-social-title">Social</div>
           <div class="social-networks">
-            <a class="social-network" href="#">
+            <a class="social-network" href="/single">
               <div class="social-icon"><img src="../assets/svg/social/facebook.svg" /></div>
               <div class="social-text">Like</div>
               <div class="social-number">25041 Fans</div>
             </a>
-            <a class="social-network" href="#">
+            <a class="social-network" href="/single">
               <div class="social-icon"><img src="../assets/svg/social/twitter.svg" /></div>
               <div class="social-text">Follow</div>
               <div class="social-number">25041 Followers</div>
             </a>
-            <a class="social-network" href="#">
+            <a class="social-network" href="/single">
               <div class="social-icon"><img src="../assets/svg/social/youtube.svg" /></div>
               <div class="social-text">Subscribe</div>
               <div class="social-number">941 Subscribers</div>
@@ -352,7 +352,7 @@
         </div>
         <div class="aside-tv">
           <div class="aside-tv-title">Kneaz TV</div>
-          <a class="aside-tv-link" href="#">
+          <a class="aside-tv-link" href="/single">
             <div class="aside-tv-video">
               <img class="aside-tv-video-image" src="../assets/svg/video.svg" />
               <img class="aside-tv-video-button" src="../assets/svg/videoPlay.svg" />

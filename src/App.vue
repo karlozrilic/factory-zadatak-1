@@ -11,9 +11,9 @@
           </div>
           <div class="top-navigation-links">
             <ul>
-              <li><a href="#">Media</a></li>
-              <li><a href="#">Marketing</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="/category">Media</a></li>
+              <li><a href="/category">Marketing</a></li>
+              <li><a href="/category">Contact</a></li>
             </ul>
             <button class="top-navigation-search"><img src="./assets/svg/search.svg" /></button>
           </div>
@@ -23,11 +23,11 @@
         <div class="lower-navigation-content">
           <ul>
             <li><a href="/" id="news">NEWS</a></li>
-            <li><a href="/about" id="business">BUSINESS</a></li>
-            <li><a href="/about" id="sport">SPORT</a></li>
-            <li><a href="/about" id="life">LIFE</a></li>
-            <li><a href="/about" id="tech">TECH</a></li>
-            <li><a href="/about" id="travel">TRAVEL</a></li>
+            <li><a href="/category" id="business">BUSINESS</a></li>
+            <li><a href="/category" id="sport">SPORT</a></li>
+            <li><a href="/category" id="life">LIFE</a></li>
+            <li><a href="/category" id="tech">TECH</a></li>
+            <li><a href="/category" id="travel">TRAVEL</a></li>
           </ul>
         </div>
       </div>
@@ -61,19 +61,19 @@
             <div class="footer-title">Tags Widget</div>
             <div class="links">
               <ul>
-                <li><a href="#">assueverit</a></li>
-                <li><a href="#">utroquoe</a></li>
-                <li><a href="#">probo</a></li>
-                <li><a href="#">assuev</a></li>
-                <li><a href="#">probo</a></li>
-                <li><a href="#">assuevverit</a></li>
-                <li><a href="#">titl</a></li>
-                <li><a href="#">assuevverit</a></li>
-                <li><a href="#">assuevverit</a></li>
-                <li><a href="#">utroquoe</a></li>
-                <li><a href="#">probo</a></li>
-                <li><a href="#">assuevverit</a></li>
-                <li><a href="#">utroquoe</a></li>
+                <li><a href="/single">assueverit</a></li>
+                <li><a href="/single">utroquoe</a></li>
+                <li><a href="/single">probo</a></li>
+                <li><a href="/single">assuev</a></li>
+                <li><a href="/single">probo</a></li>
+                <li><a href="/single">assuevverit</a></li>
+                <li><a href="/single">titl</a></li>
+                <li><a href="/single">assuevverit</a></li>
+                <li><a href="/single">assuevverit</a></li>
+                <li><a href="/single">utroquoe</a></li>
+                <li><a href="/single">probo</a></li>
+                <li><a href="/single">assuevverit</a></li>
+                <li><a href="/single">utroquoe</a></li>
               </ul>
             </div>
           </div>
@@ -81,7 +81,7 @@
         <div class="mid">
           <div class="mid-element">
             <div class="footer-title">Featured</div>
-            <a class="footer-article" href="#">
+            <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
@@ -92,7 +92,7 @@
               <img src="./assets/svg/footerArticle.svg" />
             </a>
             <hr class="mid-footer-hr" />
-            <a class="footer-article" href="#">
+            <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
@@ -103,7 +103,7 @@
               <img src="./assets/svg/footerArticle.svg" />
             </a>
             <hr class="mid-footer-hr" />
-            <a class="footer-article" href="#">
+            <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
@@ -116,7 +116,7 @@
           </div>
           <div class="mid-element">
             <div class="footer-title">Random Posts</div>
-            <a class="footer-article" href="#">
+            <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
@@ -127,7 +127,7 @@
               <img src="./assets/svg/footerArticle.svg" />
             </a>
             <hr class="mid-footer-hr" />
-            <a class="footer-article" href="#">
+            <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
@@ -138,7 +138,7 @@
               <img src="./assets/svg/footerArticle.svg" />
             </a>
             <hr class="mid-footer-hr" />
-            <a class="footer-article" href="#">
+            <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
@@ -151,7 +151,7 @@
           </div>
           <div class="mid-element">
             <div class="footer-title">Twitter Feed</div>
-            <div class="footer-tweet" href="#">
+            <div class="footer-tweet" href="/single">
               <div class="footer-tweet-acc">
                 <img src="./assets/svg/social/twitterBird.svg" alt="Twitter" />
                 <a href="#">Envato @envato</a>
@@ -161,7 +161,7 @@
               </div>
             </div>
             <hr class="bottom-footer-hr" />
-            <div class="footer-tweet" href="#">
+            <div class="footer-tweet" href="/single">
               <div class="footer-tweet-acc">
                 <img src="./assets/svg/social/twitterBird.svg" alt="Twitter" />
                 <a href="#">Envato @envato</a>
@@ -171,7 +171,7 @@
               </div>
             </div>
             <hr class="bottom-footer-hr" />
-            <div class="footer-tweet" href="#">
+            <div class="footer-tweet" href="/single">
               <div class="footer-tweet-acc">
                 <img src="./assets/svg/social/twitterBird.svg" alt="Twitter" />
                 <a href="#">Envato @envato</a>
@@ -188,10 +188,10 @@
         <div class="copyright">© 2013 - Kenaz Template - Proudly made at Plava tvornica Croatia</div>
         <div class="links">
           <ul>
-            <li><a href="#">Typography</a>-</li>
-            <li><a href="#">Templates</a>-</li>
-            <li><a href="#">Contact Form</a>-</li>
-            <li><a href="#"> 404 Page</a></li>
+            <li><a href="/single">Typography</a>-</li>
+            <li><a href="/single">Templates</a>-</li>
+            <li><a href="/single">Contact Form</a>-</li>
+            <li><a href="/single"> 404 Page</a></li>
           </ul>
           </div>
       </div>
