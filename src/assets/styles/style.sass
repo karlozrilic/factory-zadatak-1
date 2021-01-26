@@ -282,7 +282,7 @@ header
             display: inline-block
             width: 15%
             text-align: center
-            padding: 3px 15px
+            padding: 5px 15px
             border: 1px solid #FFFFFF
 
 .center-articles
@@ -328,7 +328,7 @@ header
             .news-category-article
                 display: flex
                 flex-direction: column
-                padding-bottom: 40px
+                padding: 20px 0
                 .title
                     color: $mainArticlesTitleColor
                     font-weight: bold
@@ -408,6 +408,115 @@ header
                                 color: #FFFFFF
                             &:hover
                                 opacity: 0.8
+        .article
+            background-color: #FFFFFF
+            .text
+                padding: 30px
+                color: #444444
+                font-size: 14px
+                line-height: 22px
+            .social
+                padding: 40px 10px 18px
+        .author-section
+            background-color: #FFFFFF
+            padding: 18px 30px 30px
+            margin-bottom: 20px
+            .title
+                font-weight: bold
+                font-size: 24px
+                line-height: 29px
+                color: $mainArticlesTitleColor
+                padding-bottom: 30px
+            .author-content
+                display: flex
+                flex-direction: row
+                justify-content: space-between
+                .about-author
+                    color: $mainArticlesTitleColor
+                    font-family: Varela
+                    font-size: 13px
+                    line-height: 20px
+                    padding-left: 20px
+        .comments-section
+            background-color: #FFFFFF
+            margin-bottom: 40px
+            .title
+                color: $mainArticlesTitleColor
+                font-weight: bold
+                font-size: 24px
+                line-height: 29px
+                padding: 18px 30px
+            .comments
+                padding: 15px 30px
+                .comment
+                    display: flex
+                    flex-direction: row
+                    align-items: flex-start
+                    padding-bottom: 40px
+                    &:last-child
+                        padding: 0
+                    .comment-body
+                        position: relative
+                        padding-left: 18px
+                        .top
+                            display: flex
+                            flex-direction: row
+                            padding-bottom: 3px
+                            .user-name
+                                font-size: 18px
+                                line-height: 20px
+                                color: $purple
+                                padding-right: 10px
+                            .date
+                                font-family: Varela
+                                font-size: 11px
+                                line-height: 20px
+                                color: #666666
+                        .text
+                            color: #444444
+                            font-family: Varela
+                            font-size: 13px
+                            line-height: 20px
+                        .comment-reply
+                            position: absolute
+                            top: 0
+                            right: 0
+                            color: $purple
+                            font-family: Varela Round
+                            font-size: 14px
+                            line-height: 17px
+                            &:hover
+                                opacity: 0.8
+            .add-comment
+                padding: 8px 30px
+                .text
+                    color: #444444
+                    font-family: Varela
+                    font-size: 13px
+                    line-height: 20px
+                    padding-bottom: 25px
+                .add-comment-form
+                    display: flex
+                    flex-direction: column
+                    input
+                        width: 50%
+                        padding: 10px 15px
+                        margin: 4px 0
+                        border: none
+                        background-color: #DDDDDD
+                    textarea
+                        padding: 10px 15px
+                        margin: 4px 0
+                        border: none
+                        background-color: #DDDDDD
+                        resize: none
+                    .add-comment-button
+                        color: #FFFFFF
+                        margin: 14px 0
+                        padding: 10px 35px
+                        background-color: $purple
+                        width: fit-content
+                        border: none
     aside
         height: fit-content
         width: 302px
