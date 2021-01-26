@@ -5,7 +5,7 @@
         <div class="top-navigation-content">
           <div class="top-navigation-brand">
             <div class="top-logo">
-              <img src="./assets/svg/kenaz.svg" />
+              <img src="./assets/svg/kenaz.svg" alt="Logo" />
             </div>
             <p>Kenaz</p>
           </div>
@@ -15,7 +15,7 @@
               <li><a href="/category">Marketing</a></li>
               <li><a href="/category">Contact</a></li>
             </ul>
-            <button class="top-navigation-search"><img src="./assets/svg/search.svg" /></button>
+            <button class="top-navigation-search"><img src="./assets/svg/search.svg" alt="Search" /></button>
           </div>
         </div>
       </div>
@@ -37,7 +37,7 @@
       <div>
         <div class="top">
           <div class="top-element">
-            <div class="logo"><img src="./assets/svg/kenazBlue.svg" /> Kenaz</div>
+            <div class="logo"><img src="./assets/svg/kenazBlue.svg" alt="Logo" /> Kenaz</div>
             <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ante.</div>
             <div class="social">
               <a href="#"><img src="./assets/svg/social/rss.svg" alt="RSS" /></a>
@@ -85,33 +85,33 @@
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" />
+              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" />
+              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" />
+              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
             </a>
           </div>
           <div class="mid-element">
@@ -120,33 +120,33 @@
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" />
+              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" />
+              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" />
+              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
             </a>
           </div>
           <div class="mid-element">

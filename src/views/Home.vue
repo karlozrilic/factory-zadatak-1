@@ -6,33 +6,33 @@
     </div>
     <div class="slider">
       <div>
-        <img src="../assets/svg/image.svg" />
+        <img src="../assets/svg/image.svg" alt="Slider image" />
         <div class="image-info">
           <div class="article-info">
             <div class="article-date">August 26, 2013</div>
-            <div class="article-comments"><img src="../assets/svg/comment.svg" /> 22 Comments</div>
+            <div class="article-comments"><img src="../assets/svg/comment.svg" alt="Comment" /> 22 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
           <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
       <div>
-        <img src="../assets/svg/image.svg" />
+        <img src="../assets/svg/image.svg" alt="Slider image" />
         <div class="image-info">
           <div class="article-info">
             <div class="article-date">August 26, 2014</div>
-            <div class="article-comments"><img src="../assets/svg/comment.svg" /> 14 Comments</div>
+            <div class="article-comments"><img src="../assets/svg/comment.svg" alt="Comment" /> 14 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
           <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
       <div>
-        <img src="../assets/svg/image.svg" />
+        <img src="../assets/svg/image.svg" alt="Slider image" />
         <div class="image-info">
           <div class="article-info">
             <div class="article-date">August 26, 2015</div>
-            <div class="article-comments"><img src="../assets/svg/comment.svg" /> 5 Comments</div>
+            <div class="article-comments"><img src="../assets/svg/comment.svg" alt="Comment" /> 5 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
           <a class="article-link" href="/single">Read article</a>
@@ -48,7 +48,7 @@
           </div>
           <div class="articles">
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
                 <p>14</p>
@@ -56,7 +56,7 @@
               <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
                 <p>22</p>
@@ -64,7 +64,7 @@
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
                 <p>5</p>
@@ -80,21 +80,21 @@
           </div>
           <div class="articles">
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
@@ -113,7 +113,7 @@
           </div>
           <div class="articles">
             <a class="small-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-side">
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
@@ -122,7 +122,7 @@
               </div>
             </a>
             <a class="small-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-side">
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
@@ -131,7 +131,7 @@
               </div>
             </a>
             <a class="small-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-side">
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
@@ -140,7 +140,7 @@
               </div>
             </a>
             <a class="small-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-side">
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
@@ -158,34 +158,34 @@
           <div class="main-article-top">
             <h1>News Carousel</h1>
             <div class="arrows">
-              <img class='a-left control-c prev slick-prev' id="news-carousel-prev" src='../assets/svg/arrows/prevArrowNewsCarousel.svg'>
-              <img class='a-right control-c next slick-next' id="news-carousel-next" src='../assets/svg/arrows/nextArrowNewsCarousel.svg'>
+              <img class='a-left control-c prev slick-prev' id="news-carousel-prev" src='../assets/svg/arrows/prevArrowNewsCarousel.svg' alt="Previous arrow">
+              <img class='a-right control-c next slick-next' id="news-carousel-next" src='../assets/svg/arrows/nextArrowNewsCarousel.svg' alt="Next arrow">
             </div>
           </div>
           <div class="articles news-carousel-slider">
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
               <p class="article-title">NASA releases portrait of a planet waving at Saturn</p>
             </a>
             <a class="medium-article" href="/single">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="article-date-and-views">
                 <p>August 26, 2013</p>
               </div>
@@ -198,27 +198,27 @@
             <div class="main-article-top">
               <h1>Editorials</h1>
               <div class="arrows">
-                <img class='a-left control-c prev slick-prev' id="editorials-prev" src='../assets/svg/arrows/prevArrowSingleCarousel.svg'>
-                <img class='a-right control-c next slick-next' id="editorials-next" src='../assets/svg/arrows/nextArrowSingleCarousel.svg'>
+                <img class='a-left control-c prev slick-prev' id="editorials-prev" src='../assets/svg/arrows/prevArrowSingleCarousel.svg' alt="Previous arrow">
+                <img class='a-right control-c next slick-next' id="editorials-next" src='../assets/svg/arrows/nextArrowSingleCarousel.svg' alt="Next arrow">
               </div>
             </div>
             <div class="articles editorials-slider">
               <a class="medium-article" href="/single">
-                <img src="../assets/svg/article-image.svg" />
+                <img src="../assets/svg/article-image.svg" alt="Article image" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
               <a class="medium-article" href="/single">
-                <img src="../assets/svg/article-image.svg" />
+                <img src="../assets/svg/article-image.svg" alt="Article image" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
               <a class="medium-article" href="/single">
-                <img src="../assets/svg/article-image.svg" />
+                <img src="../assets/svg/article-image.svg" alt="Article image" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
@@ -230,27 +230,27 @@
             <div class="main-article-top">
               <h1>Local News</h1>
               <div class="arrows">
-                <img class='a-left control-c prev slick-prev' id="local-news-prev" src='../assets/svg/arrows/prevArrowSingleCarousel.svg'>
-                <img class='a-right control-c next slick-next' id="local-news-next" src='../assets/svg/arrows/nextArrowSingleCarousel.svg'>
+                <img class='a-left control-c prev slick-prev' id="local-news-prev" src='../assets/svg/arrows/prevArrowSingleCarousel.svg' alt="Previous arrow">
+                <img class='a-right control-c next slick-next' id="local-news-next" src='../assets/svg/arrows/nextArrowSingleCarousel.svg' alt="Next arrow">
               </div>
             </div>
             <div class="articles local-news-slider">
               <a class="medium-article" href="/single">
-                <img src="../assets/svg/article-image.svg" />
+                <img src="../assets/svg/article-image.svg" alt="Article image" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
               <a class="medium-article" href="/single">
-                <img src="../assets/svg/article-image.svg" />
+                <img src="../assets/svg/article-image.svg" alt="Article image" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
                 <p class="article-title">For Obama, MLK's shadow looms large ahead of speech</p>
               </a>
               <a class="medium-article" href="/single">
-                <img src="../assets/svg/article-image.svg" />
+                <img src="../assets/svg/article-image.svg" alt="Article image" />
                 <div class="article-date-and-views">
                   <p>August 26, 2013</p>
                 </div>
@@ -269,51 +269,51 @@
     <div class="bottom-slick">
       <div class="slider-for">
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="slide-img">
-          <img src="../assets/svg/bottomSlick/1.svg" />
+          <img src="../assets/svg/bottomSlick/1.svg" alt="Bottom slick image" />
         </div>
         <div class="search-icon">
-          <img src="../assets/svg/search.svg" />
+          <img src="../assets/svg/search.svg" alt="Search" />
         </div>
       </div>
       <div class="slider-nav">
         <div>
-          <img src="../assets/svg/bottomSlick/2.svg" />
+          <img src="../assets/svg/bottomSlick/2.svg" alt="Bottom slick image" />
         </div>
         <div>
-          <img src="../assets/svg/bottomSlick/3.svg" />
+          <img src="../assets/svg/bottomSlick/3.svg" alt="Bottom slick image" />
         </div>
         <div>
-          <img src="../assets/svg/bottomSlick/4.svg" />
+          <img src="../assets/svg/bottomSlick/4.svg" alt="Bottom slick image" />
         </div>
         <div>
-          <img src="../assets/svg/bottomSlick/5.svg" />
+          <img src="../assets/svg/bottomSlick/5.svg" alt="Bottom slick image" />
         </div>
         <div>
-          <img src="../assets/svg/bottomSlick/6.svg" />
+          <img src="../assets/svg/bottomSlick/6.svg" alt="Bottom slick image" />
         </div>
         <div>
-          <img src="../assets/svg/bottomSlick/7.svg" />
+          <img src="../assets/svg/bottomSlick/7.svg" alt="Bottom slick image" />
         </div>
         <div>
-          <img src="../assets/svg/bottomSlick/8.svg" />
+          <img src="../assets/svg/bottomSlick/8.svg" alt="Bottom slick image" />
         </div>
       </div>
     </div>

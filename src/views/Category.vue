@@ -6,33 +6,33 @@
     </div>
     <div class="slider">
       <div>
-        <img src="../assets/svg/image.svg" />
+        <img src="../assets/svg/image.svg" alt="Slider image" />
         <div class="image-info">
           <div class="article-info">
             <div class="article-date">August 26, 2013</div>
-            <div class="article-comments"><img src="../assets/svg/comment.svg" /> 22 Comments</div>
+            <div class="article-comments"><img src="../assets/svg/comment.svg" alt="Comment" /> 22 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
           <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
       <div>
-        <img src="../assets/svg/image.svg" />
+        <img src="../assets/svg/image.svg" alt="Slider image" />
         <div class="image-info">
           <div class="article-info">
             <div class="article-date">August 26, 2014</div>
-            <div class="article-comments"><img src="../assets/svg/comment.svg" /> 14 Comments</div>
+            <div class="article-comments"><img src="../assets/svg/comment.svg" alt="Comment" /> 14 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
           <a class="article-link" href="/single">Read article</a>
         </div>
       </div>
       <div>
-        <img src="../assets/svg/image.svg" />
+        <img src="../assets/svg/image.svg" alt="Slider image" />
         <div class="image-info">
           <div class="article-info">
             <div class="article-date">August 26, 2015</div>
-            <div class="article-comments"><img src="../assets/svg/comment.svg" /> 5 Comments</div>
+            <div class="article-comments"><img src="../assets/svg/comment.svg" alt="Comment" /> 5 Comments</div>
           </div>
           <h1>'Margot' breathlessly reimagines Anne Frank's sister</h1>
           <a class="article-link" href="/single">Read article</a>
@@ -46,12 +46,12 @@
           <div class="news-category-article">
             <div class="title">Patriotsvv make cuts ... and Tim Tebow survives (so far)</div>
             <div class="data">
-              <div class="date"><img src="../assets/svg/calendar.svg" /><div class="dat">August 26, 2013</div></div>
+              <div class="date"><img src="../assets/svg/calendar.svg" alt="Calendar" /><div class="dat">August 26, 2013</div></div>
               <div class="author">Author: Matej Sudar</div>
               <div class="comments">12 Comments</div>
             </div>
             <div class="body">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="text-button">
                 <div class="text">
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
@@ -70,12 +70,12 @@
           <div class="news-category-article">
             <div class="title">Patriotsvv make cuts ... and Tim Tebow survives (so far)</div>
             <div class="data">
-              <div class="date"><img src="../assets/svg/calendar.svg" /><div class="dat">August 26, 2013</div></div>
+              <div class="date"><img src="../assets/svg/calendar.svg" alt="Calendar" /><div class="dat">August 26, 2013</div></div>
               <div class="author">Author: Matej Sudar</div>
               <div class="comments">12 Comments</div>
             </div>
             <div class="body">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="text-button">
                 <div class="text">
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
@@ -94,12 +94,12 @@
           <div class="news-category-article">
             <div class="title">Patriotsvv make cuts ... and Tim Tebow survives (so far)</div>
             <div class="data">
-              <div class="date"><img src="../assets/svg/calendar.svg" /><div class="dat">August 26, 2013</div></div>
+              <div class="date"><img src="../assets/svg/calendar.svg" alt="Calendar" /><div class="dat">August 26, 2013</div></div>
               <div class="author">Author: Matej Sudar</div>
               <div class="comments">12 Comments</div>
             </div>
             <div class="body">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="text-button">
                 <div class="text">
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
@@ -118,12 +118,12 @@
           <div class="news-category-article">
             <div class="title">Patriotsvv make cuts ... and Tim Tebow survives (so far)</div>
             <div class="data">
-              <div class="date"><img src="../assets/svg/calendar.svg" /><div class="dat">August 26, 2013</div></div>
+              <div class="date"><img src="../assets/svg/calendar.svg" alt="Calendar" /><div class="dat">August 26, 2013</div></div>
               <div class="author">Author: Matej Sudar</div>
               <div class="comments">12 Comments</div>
             </div>
             <div class="body">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="text-button">
                 <div class="text">
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
@@ -142,12 +142,12 @@
           <div class="news-category-article">
             <div class="title">Patriotsvv make cuts ... and Tim Tebow survives (so far)</div>
             <div class="data">
-              <div class="date"><img src="../assets/svg/calendar.svg" /><div class="dat">August 26, 2013</div></div>
+              <div class="date"><img src="../assets/svg/calendar.svg" alt="Calendar" /><div class="dat">August 26, 2013</div></div>
               <div class="author">Author: Matej Sudar</div>
               <div class="comments">12 Comments</div>
             </div>
             <div class="body">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="text-button">
                 <div class="text">
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
@@ -166,12 +166,12 @@
           <div class="news-category-article">
             <div class="title">Patriotsvv make cuts ... and Tim Tebow survives (so far)</div>
             <div class="data">
-              <div class="date"><img src="../assets/svg/calendar.svg" /><div class="dat">August 26, 2013</div></div>
+              <div class="date"><img src="../assets/svg/calendar.svg" alt="Calendar" /><div class="dat">August 26, 2013</div></div>
               <div class="author">Author: Matej Sudar</div>
               <div class="comments">12 Comments</div>
             </div>
             <div class="body">
-              <img src="../assets/svg/article-image.svg" />
+              <img src="../assets/svg/article-image.svg" alt="Article image" />
               <div class="text-button">
                 <div class="text">
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 

@@ -5,7 +5,7 @@
             <p>940x120</p>
         </div>
         <div class="single-banner-image">
-            <img src="../assets/svg/singlePage/bannerImage.svg" />
+            <img src="../assets/svg/singlePage/bannerImage.svg" alt="Banner image" />
             <div class="banner-image-text">
                 <div class="text">
                     <p>August 26, 2013</p>
@@ -30,7 +30,7 @@
                         blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. 
                         Nullam quis risus eget urna mollis ornare vel eu leo.
                     </div>
-                    <img src="../assets/svg/singlePage/articleImage.svg" />
+                    <img src="../assets/svg/singlePage/articleImage.svg" alt="Article image" />
                     <div class="text">
                         Molestias ultricies, ante quam urna ut volutpat, egestas dolor 
                         dui, nec hac ultrices nulla non netus. Placerat vehicula donec 
@@ -43,7 +43,7 @@
                         condimentum purus convallis dui hendrerit. Purus ipsum neque ipsum 
                         odio nulla, mi turpis diam tellus laoreet congue. 
                     </div>
-                    <img class="social" src="../assets/svg/singlePage/social.svg" />
+                    <img class="social" src="../assets/svg/singlePage/social.svg" alt="Social" />
                 </div>
                 <div class="banner">
                     <p>banner</p>
@@ -52,7 +52,7 @@
                 <div class="author-section">
                     <div class="title">About the Author</div>
                     <div class="author-content">
-                        <img src="../assets/svg/singlePage/authorImage.svg" />
+                        <img src="../assets/svg/singlePage/authorImage.svg" alt="Author image" />
                         <div class="about-author">
                             Molestias ultricies, ante quam urna ut volutpat, 
                             egestas dolor dui, nec hac ultrices nulla non netus. 
@@ -67,7 +67,7 @@
                     <div class="title">Comments</div>
                     <div class="comments">
                         <div class="comment">
-                            <img src="../assets/svg/singlePage/profilePic.svg" />
+                            <img src="../assets/svg/singlePage/profilePic.svg" alt="Profile image" />
                             <div class="comment-body">
                                 <div class="top">
                                     <div class="user-name">Matt Adams</div>
@@ -84,7 +84,7 @@
                             </div>
                         </div>
                         <div class="comment">
-                            <img src="../assets/svg/singlePage/profilePic.svg" />
+                            <img src="../assets/svg/singlePage/profilePic.svg" alt="Profile image" />
                             <div class="comment-body">
                                 <div class="top">
                                     <div class="user-name">John Toews</div>
@@ -101,7 +101,7 @@
                             </div>
                         </div>
                         <div class="comment">
-                            <img src="../assets/svg/singlePage/profilePic.svg" />
+                            <img src="../assets/svg/singlePage/profilePic.svg" alt="Profile image" />
                             <div class="comment-body">
                                 <div class="top">
                                     <div class="user-name">Andrew Enns</div>
