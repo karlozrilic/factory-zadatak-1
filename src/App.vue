@@ -5,7 +5,7 @@
         <div class="top-navigation-content">
           <div class="top-navigation-brand">
             <div class="top-logo">
-              <img src="./assets/svg/kenaz.svg" alt="Logo" />
+              <img src="./assets/svg/kenaz.png" alt="Logo" />
             </div>
             <p>Kenaz</p>
           </div>
@@ -15,7 +15,7 @@
               <li><a href="/category">Marketing</a></li>
               <li><a href="/category">Contact</a></li>
             </ul>
-            <button class="top-navigation-search"><img src="./assets/svg/search.svg" alt="Search" /></button>
+            <button class="top-navigation-search"><img src="./assets/svg/search.png" alt="Search" /></button>
           </div>
         </div>
       </div>
@@ -37,16 +37,16 @@
       <div>
         <div class="top">
           <div class="top-element">
-            <div class="logo"><img src="./assets/svg/kenazBlue.svg" alt="Logo" /> Kenaz</div>
+            <div class="logo"><img src="./assets/svg/kenazBlue.png" alt="Logo" /> Kenaz</div>
             <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ante.</div>
             <div class="social">
-              <a href="#"><img src="./assets/svg/social/rss.svg" alt="RSS" /></a>
-              <a href="#"><img src="./assets/svg/social/facebook.svg" alt="Facebook" /></a>
-              <a href="#"><img src="./assets/svg/social/twitter.svg" alt="Twitter" /></a>
-              <a href="#"><img src="./assets/svg/social/dribble.svg" alt="Dribble" /></a>
-              <a href="#"><img src="./assets/svg/social/linkedIn.svg" alt="LinkedIn" /></a>
-              <a href="#"><img src="./assets/svg/social/youtube.svg" alt="Youtube" /></a>
-              <a href="#"><img src="./assets/svg/social/skype.svg" alt="Skype" /></a>
+              <a href="#"><img src="./assets/svg/social/rss.png" alt="RSS" /></a>
+              <a href="#"><img src="./assets/svg/social/facebook.png" alt="Facebook" /></a>
+              <a href="#"><img src="./assets/svg/social/twitter.png" alt="Twitter" /></a>
+              <a href="#"><img src="./assets/svg/social/dribble.png" alt="Dribble" /></a>
+              <a href="#"><img src="./assets/svg/social/linkedIn.png" alt="LinkedIn" /></a>
+              <a href="#"><img src="./assets/svg/social/youtube.png" alt="Youtube" /></a>
+              <a href="#"><img src="./assets/svg/social/skype.png" alt="Skype" /></a>
             </div>
           </div>
           <div class="top-element">
@@ -85,33 +85,33 @@
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.png" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
+              <img src="./assets/svg/footerArticle.png" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.png" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
+              <img src="./assets/svg/footerArticle.png" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.png" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
+              <img src="./assets/svg/footerArticle.png" alt="Article image" />
             </a>
           </div>
           <div class="mid-element">
@@ -120,40 +120,40 @@
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.png" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
+              <img src="./assets/svg/footerArticle.png" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.png" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
+              <img src="./assets/svg/footerArticle.png" alt="Article image" />
             </a>
             <hr class="mid-footer-hr" />
             <a class="footer-article" href="/single">
               <div class="article-info">
                 <div class="article-info-date-comments">
                   <p>August 26, 2013</p>
-                  <p><img src="./assets/svg/greyComment.svg" alt="Comment" /> 5</p>
+                  <p><img src="./assets/svg/greyComment.png" alt="Comment" /> 5</p>
                 </div>
                 <div class="article-info-title">Palestinians call off peace talks after clash</div>
               </div>
-              <img src="./assets/svg/footerArticle.svg" alt="Article image" />
+              <img src="./assets/svg/footerArticle.png" alt="Article image" />
             </a>
           </div>
           <div class="mid-element">
             <div class="footer-title">Twitter Feed</div>
             <div class="footer-tweet" href="/single">
               <div class="footer-tweet-acc">
-                <img src="./assets/svg/social/twitterBird.svg" alt="Twitter" />
+                <img src="./assets/svg/social/twitterBird.png" alt="Twitter" />
                 <a href="#">Envato @envato</a>
               </div>
               <div class="footer-tweet-post">
@@ -163,7 +163,7 @@
             <hr class="bottom-footer-hr" />
             <div class="footer-tweet" href="/single">
               <div class="footer-tweet-acc">
-                <img src="./assets/svg/social/twitterBird.svg" alt="Twitter" />
+                <img src="./assets/svg/social/twitterBird.png" alt="Twitter" />
                 <a href="#">Envato @envato</a>
               </div>
               <div class="footer-tweet-post">
@@ -173,7 +173,7 @@
             <hr class="bottom-footer-hr" />
             <div class="footer-tweet" href="/single">
               <div class="footer-tweet-acc">
-                <img src="./assets/svg/social/twitterBird.svg" alt="Twitter" />
+                <img src="./assets/svg/social/twitterBird.png" alt="Twitter" />
                 <a href="#">Envato @envato</a>
               </div>
               <div class="footer-tweet-post">
@@ -200,6 +200,5 @@
 </template>
 
 <style lang="sass">
-@import "assets/styles/variables"
 @import "assets/styles/style"
 </style>
