@@ -1,0 +1,173 @@
+aside
+        height: fit-content
+        width: 302px
+        margin: 15px 0
+        .aside-articles
+            position: relative
+            background: $purple
+            &:before
+                content: ""
+                display: block
+                position: absolute
+                top: 0
+                left: 0
+                height: 100%
+                width: 100%
+                mix-blend-mode: normal
+                opacity: 0.2
+                background-color: #000
+            .aside-articles-links
+                ul
+                    position: relative
+                    display: flex
+                    flex-direction: row
+                    justify-content: space-between
+                    padding: 15px 25px
+                    li
+                        display: inline-block
+                        a
+                            font-family: Varela Round
+                            color: #fff
+                            border-bottom: 1px solid $whiteColorAlfa
+                            &.active
+                                color: $yellow
+                                border-bottom: 1px solid $yellowLight
+            .article
+                padding: 10px
+                position: relative
+                display: flex
+                flex-direction: row
+                background: $purple
+                margin: 2px 0
+                &:hover
+                    &:before
+                        content: ""
+                        display: block
+                        position: absolute
+                        top: 0
+                        left: 0
+                        height: 100%
+                        width: 100%
+                        background: #000000
+                        mix-blend-mode: normal
+                        opacity: 0.1
+                .article-content
+                    position: relative
+                    display: flex
+                    flex-direction: column
+                    padding: 0 15px
+                    .article-info
+                        position: relative
+                        display: flex
+                        flex-direction: column
+                        .article-date
+                            font-family: Varela Round
+                            font-size: 10px
+                            color: #ACB3BA
+                        .article-title
+                            font-weight: bold
+                            font-size: $standardFontSize
+                    .article-comments
+                        font-family: Varela Round
+                        font-size: 10px
+                        text-align: right
+                        color: #ACB3BA
+                .article-image
+                    border: 3px solid $whiteColor
+                    box-shadow: 0px 1px 1px rgba(0, 0, 1, 0.3)
+        .aside-social
+            margin: 15px 0
+            .aside-social-title
+                color: $articleTextColor
+                font-weight: bold
+                font-size: $titleFontSize
+                line-height: 29px
+                padding: 15px 0
+            .social-networks
+                display: flex
+                flex-direction: column
+                .social-network
+                    display: flex
+                    flex-direction: row
+                    justify-content: space-between
+                    margin: 3px 0
+                    .social-icon
+                        width: 100%
+                        height: 100%
+                        max-width: 40px
+                        max-height: 40px
+                        img
+                            width: 100%
+                            height: 100%
+                    .social-text
+                        width: 40%
+                        display: flex
+                        align-items: center
+                        background-color: $greyColor
+                        padding: 0 10px
+                        color: $articleTextColor
+                        font-weight: bold
+                        font-size: 18px
+                    .social-number
+                        width: 50%
+                        display: flex
+                        align-items: center
+                        background-color: $purple
+                        padding: 0 10px
+                        font-family: Varela Round
+                        font-size: $standardFontSize
+        .aside-tv
+            position: relative
+            background-color: $whiteColor
+            height: fit-content
+            margin-bottom: 18px
+            .aside-tv-title
+                font-weight: bold
+                color: $articleTextColor
+                font-size: $titleFontSize
+                padding: 15px 25px
+            .aside-tv-video
+                position: relative
+                height: 100%
+                .aside-tv-video-image
+                    position: relative
+                    top: 0
+                    left: 0
+                .aside-tv-video-button
+                    position: absolute
+                    top: 50%
+                    left: 50%
+                    transform: translate(-50%, -50%)
+            .aside-tv-text
+                position: relative
+                padding: 15px
+                .aside-tv-date
+                    font-family: Varela Round
+                    font-size: $smallFontSize
+                    color: $darkGrey
+                .aside-tv-article-title
+                    color: $articleTextColor
+                    font-weight: bold
+                    font-size: $standardFontSize
+        .aside-banners
+            display: flex
+            flex-direction: row
+            align-items: center
+            justify-content: center
+            background-color: $greyColor
+            padding: 15px
+            margin-bottom: 18px
+            .aside-banner
+                width: 128px
+                height: 128px
+                background-color: $whiteColor
+                margin: 5px
+                display: flex
+                flex-direction: column
+                align-items: center
+                justify-content: center
+                p
+                    color: $lightGrey
+        .aside-facebook
+            padding: 15px
+            background-color: $whiteColor

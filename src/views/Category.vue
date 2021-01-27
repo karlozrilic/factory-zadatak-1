@@ -1,5 +1,5 @@
 <template>
-  <div class="main-content">
+  <main>
     <div class="banner">
       <p>banner</p>
       <p>940x120</p>
@@ -209,7 +209,7 @@
       </div>
       <Aside />
     </div>
-  </div>
+  </main>
 </template>
 
 <script>

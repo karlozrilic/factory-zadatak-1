@@ -1,5 +1,5 @@
 <template>
-    <div class="main-content">
+    <main>
         <div class="banner">
             <p>banner</p>
             <p>940x120</p>
@@ -16,7 +16,7 @@
         <div class="center-articles">
             <div class="main-articles">
                 <div class="article">
-                    <div class="text">
+                    <p class="text">
                         Vestibulum id ligula porta felis 
                         euismod semper. Morbi leo risus, 
                         porta ac consectetur ac, vestibulum at eros. 
@@ -29,9 +29,9 @@
                         sed odio dui. Nulla vitae elit libero, a pharetra augue. Curabitur 
                         blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. 
                         Nullam quis risus eget urna mollis ornare vel eu leo.
-                    </div>
+                    </p>
                     <img src="../assets/svg/singlePage/articleImage.png" alt="Article image" />
-                    <div class="text">
+                    <p class="text">
                         Molestias ultricies, ante quam urna ut volutpat, egestas dolor 
                         dui, nec hac ultrices nulla non netus. Placerat vehicula donec 
                         non suscipit egestas, augue vel suspendisse. Et felis venenatis 
@@ -42,7 +42,7 @@
                         tellus laoreet congue a. Rhoncus maecenas, sit suspendisse, 
                         condimentum purus convallis dui hendrerit. Purus ipsum neque ipsum 
                         odio nulla, mi turpis diam tellus laoreet congue. 
-                    </div>
+                    </p>
                     <img class="social" src="../assets/svg/singlePage/social.png" alt="Social" />
                 </div>
                 <div class="banner">
@@ -53,14 +53,14 @@
                     <div class="title">About the Author</div>
                     <div class="author-content">
                         <img src="../assets/svg/singlePage/authorImage.png" alt="Author image" />
-                        <div class="about-author">
+                        <p class="about-author">
                             Molestias ultricies, ante quam urna ut volutpat, 
                             egestas dolor dui, nec hac ultrices nulla non netus. 
                             Placerat vehicula donec non suscipit egestas, augue vel 
                             suspendisse. Et felis venenatis blandit sed est ultrices, 
                             adipiscing urna, at aliquam nullam facilisis aliquet sapien, 
                             eget duis consectetuer tristique nunc vitae erat, mi purus nisl lorem. 
-                        </div>
+                        </p>
                     </div>
                 </div>
                 <div class="comments-section">
@@ -73,13 +73,13 @@
                                     <div class="user-name">Matt Adams</div>
                                     <div class="date">Jan 2nd, 2012 2:35 pm</div>
                                 </div>
-                                <div class="text">
+                                <p class="text">
                                     Molestias ultricies, ante quam urna ut volutpat, 
                                     egestas dolor dui, nec hac ultrices nulla non netus. 
                                     Placerat vehicula donec non suscipit egestas, augue vel 
                                     suspendisse. Et felis venenatis blandit sed est ultrices, 
                                     adipiscing urna.
-                                </div>
+                                </p>
                                 <a class="comment-reply" href="#">Reply</a>
                             </div>
                         </div>
@@ -90,13 +90,13 @@
                                     <div class="user-name">John Toews</div>
                                     <div class="date">Jan 2nd, 2012 2:35 pm</div>
                                 </div>
-                                <div class="text">
+                                <p class="text">
                                     Molestias ultricies, ante quam urna ut volutpat, 
                                     egestas dolor dui, nec hac ultrices nulla non netus. 
                                     Placerat vehicula donec non suscipit egestas, augue vel 
                                     suspendisse. Et felis venenatis blandit sed est ultrices, 
                                     adipiscing urna.
-                                </div>
+                                </p>
                                 <a class="comment-reply" href="#">Reply</a>
                             </div>
                         </div>
@@ -107,26 +107,26 @@
                                     <div class="user-name">Andrew Enns</div>
                                     <div class="date">Jan 2nd, 2012 2:35 pm</div>
                                 </div>
-                                <div class="text">
+                                <p class="text">
                                     Molestias ultricies, ante quam urna ut volutpat, 
                                     egestas dolor dui, nec hac ultrices nulla non netus. 
                                     Placerat vehicula donec non suscipit egestas, augue vel 
                                     suspendisse. Et felis venenatis blandit sed est ultrices, 
                                     adipiscing urna.
-                                </div>
+                                </p>
                                 <a class="comment-reply" href="#">Reply</a>
                             </div>
                         </div>
                     </div>
                     <div class="title">Add Your Comment</div>
                     <div class="add-comment">
-                        <div class="text">
+                        <p class="text">
                             Molestias ultricies, ante quam urna ut volutpat, 
                             egestas dolor dui, nec hac ultrices nulla non netus. 
                             Placerat vehicula donec non suscipit egestas, augue vel 
                             suspendisse. Et felis venenatis blandit sed est ultrices, 
                             adipiscing urna.
-                        </div>
+                        </p>
                         <form class="add-comment-form" method="POST" action="/">
                             <input type="text" placeholder="Name" />
                             <input type="email" placeholder="Email Address" />
@@ -139,7 +139,7 @@
             </div>
             <Aside />
         </div>
-    </div>
+    </main>
 </template>
 
 <script>
