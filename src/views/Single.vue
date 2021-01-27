@@ -128,8 +128,7 @@
                             adipiscing urna.
                         </p>
                         <form class="add-comment-form" method="POST" action="/">
-                            <label for="name">Name</label>
-                            <input id="name" type="text" placeholder="Name" />
+                            <input type="text" placeholder="Name" />
                             <input type="email" placeholder="Email Address" />
                             <textarea rows="8" cols="50" placeholder="Comment">
                             </textarea>
